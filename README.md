@@ -1,2 +1,1 @@
-# web-push-notification
-Trying out web push notifications
+https://medium.com/front-end-hacking/browser-push-notifications-using-javascript-10453a78110#.qsx41zfqt
